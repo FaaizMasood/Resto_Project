@@ -1,0 +1,40 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC restaurant yy",
+      "email": "kfc@gmail.com",
+      "address": "73 downing street",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "HomeSweets restaurant",
+      "address": "49 beaver downing street",
+      "email": "HW@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Tattay restaurant",
+      "address": "35 beaver downing street",
+      "email": "Changed@gmail.com"
+    },
+    {
+      "name": "Burger king restaurant",
+      "address": "35 beaver downing street",
+      "email": "BK@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Dominos king restaurant",
+      "address": "85 beaver downing street",
+      "email": "DK@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Baker king restaurant",
+      "address": "8 beaver downing street",
+      "email": "KR@gmail.com",
+      "id": 6
+    }
+  ]
+}
